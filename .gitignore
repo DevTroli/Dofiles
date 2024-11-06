@@ -1,0 +1,10 @@
+COMMIT_EDITMSG
+HEAD
+config
+description
+hooks/
+index
+index.lock
+info/
+objects/
+tmux/plugins/

@@ -1,0 +1,12 @@
+[
+  {
+    "context": "Editor && vim_mode == normal && !VimWaiting && !menu",
+    "bindings": {
+      // Add your custom bindings for normal mode here
+     "space e": "project_panel::ToggleFocus", 
+     "space o": "workspace::CloseAllDocks",  
+     "f": "file_finder::Toggle",
+     "space t": "workspace::NewTerminal"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+---
+"pane_group:navigate_prev": none
+"editor_view:deselect_command": none
+"input:open_completion_suggestions": none
+"editor_view:move_to_paragraph_start": none
+"editor_view:select_command": none
+"workspace:show_settings_modal": none
+"editor:delete_word_left": none
+"input:toggle_workflows": none
+"ai_assistant_panel:reset_context": none
+"editor_view:unfold": none
+"workspace:toggle_ai_assistant": none
+"editor_view:insert_nonexpanding_space": none
+"editor:insert_last_word_previous_command": none
+"terminal:executing_command_delete_word_left": none
+"workspace:show_settings_account_page": none
+"terminal:ask_ai_assistant": none
+"terminal:warpify_subshell": none
+"editor:delete_word_right": none
